@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://www.pokemon.com/us/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Pokemon_1/Page_The Official Pokmon Website  Pokemon.com  Pokemon.com/button_Accept All'))
 
 WebUI.click(findTestObject('Pokemon_1/Page_The Official Pokmon Website  Pokemon.com  Pokemon.com/span_Pokdex'))
@@ -31,13 +33,13 @@ WebUI.click(findTestObject('Pokemon_1/Page_Pokdex  Pokemon.com/img'))
 
 WebUI.scrollToElement(findTestObject('Pokemon_1/Page_Pokdex  Pokemon.com/div_Pikachu      0025'), 0)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Pokemon_1/Page_Bulbasaur  Pokdex/a_Explore More Pokmon'))
 
 WebUI.scrollToElement(findTestObject('Pokemon_1/Page_Bulbasaur  Pokdex/a_Surprise Me'), 0)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 
