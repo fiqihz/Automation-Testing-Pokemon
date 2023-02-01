@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CardPokemon</name>
+   <tag></tag>
+   <elementGuidId>5cc968be-30e0-4142-b91d-94c02bbc6bf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[4]/section[5]/ul/li/figure/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[4]/section[5]/ul/li/figure/a/img</value>
+      <webElementGuid>56d889b9-4941-4615-8a46-9450902f3699</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

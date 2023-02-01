@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>3d002759-fac4-4ec0-aece-94f20e3921fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>figure > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ae709b7a-5959-44db-9f66-820199681e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png</value>
+      <webElementGuid>ac72dc0b-439e-4336-bc8a-4419841dce1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths adownload cssscrollbar cors no-overflowscrolling cookies fullscreen no-nintendo todataurljpeg todataurlwebp&quot;]/body[@class=&quot;us fluid custom-form-elements nav-follow&quot;]/div[@class=&quot;container pokedex&quot;]/section[@class=&quot;section pokedex-results overflow-visible loading&quot;]/ul[@class=&quot;results&quot;]/li[@class=&quot;animating&quot;]/figure[1]/a[1]/img[1]</value>
+      <webElementGuid>c54b268c-b107-46ce-872d-3cda008698ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png')]</value>
+      <webElementGuid>13487bd0-99d1-43c0-ac5a-0870abb57864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figure/a/img</value>
+      <webElementGuid>dbc6dfba-9ac7-4fa5-9636-28db320f9d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png']</value>
+      <webElementGuid>ea453ca4-bc0c-45d6-a5da-c61916dc4938</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

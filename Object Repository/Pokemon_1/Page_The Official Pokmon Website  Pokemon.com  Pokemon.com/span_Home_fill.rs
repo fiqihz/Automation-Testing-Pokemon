@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Home_fill</name>
+   <tag></tag>
+   <elementGuidId>2f42f927-79f0-4e24-8f70-d6cf27c44991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.explore > a > span.fill</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7c3070c1-52e7-4423-bbd1-0b9178df0eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fill</value>
+      <webElementGuid>35443d27-91f3-4749-aa2b-a9f7330fa34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths adownload cssscrollbar cors no-overflowscrolling cookies fullscreen no-nintendo todataurljpeg todataurlwebp&quot;]/body[@class=&quot;us fluid custom-form-elements&quot;]/nav[@class=&quot;main&quot;]/div[@class=&quot;content-wrapper&quot;]/ul[1]/li[@class=&quot;explore&quot;]/a[1]/span[@class=&quot;fill&quot;]</value>
+      <webElementGuid>8ca96716-6ffa-443c-8fa8-b8228ac0746c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>f63c6b94-f4d6-45d0-ac9d-5ae23ff32465</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Pikachu</name>
+   <tag></tag>
+   <elementGuidId>a01a6844-4e47-4487-987a-f2ac78ea7bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.styled-select.button-black.right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='#0025'])[1]/following::label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d0e65a6d-4524-4286-82f3-3f5b707cfaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styled-select button-black right</value>
+      <webElementGuid>8465ed57-08a4-4596-a2bf-2bd73fc8eecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pikachu</value>
+      <webElementGuid>e575d8ba-c2d5-4d09-8aca-570a207ee1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths adownload cssscrollbar cors no-overflowscrolling cookies fullscreen no-nintendo todataurljpeg todataurlwebp&quot;]/body[@class=&quot;us fluid custom-form-elements&quot;]/div[@class=&quot;container       pokedex&quot;]/section[@class=&quot;section pokedex-pokemon-form&quot;]/div[@class=&quot;column-12 push-1&quot;]/div[@class=&quot;custom-select-wrapper&quot;]/div[@class=&quot;custom-select-menu&quot;]/label[@class=&quot;styled-select button-black right&quot;]</value>
+      <webElementGuid>138dd6a5-ab92-4ed6-ae6e-ef668f747175</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#0025'])[1]/following::label[1]</value>
+      <webElementGuid>d0913161-71a9-46fa-a13d-6181be9ad5b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pikachu'])[3]/preceding::label[1]</value>
+      <webElementGuid>0c517199-3cce-474a-b0c8-11c1b9e1a3e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gigantamax Pikachu'])[2]/preceding::label[1]</value>
+      <webElementGuid>870e0dd6-4523-41cf-ab0c-197dacfc82f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>1cac3921-7e6f-4df4-8c2c-d1504d0bded3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Pikachu' or . = 'Pikachu')]</value>
+      <webElementGuid>8e64fcf1-0efe-4402-84ce-d81bacd3d8f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

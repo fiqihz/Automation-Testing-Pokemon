@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pokedex</name>
+   <tag></tag>
+   <elementGuidId>0557af84-06d4-4641-91c7-c392823cf4ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/nav/div[2]/ul/li[2]/a/span[1]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/nav/div[2]/ul/li[2]/a/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/nav/div[2]/ul/li[2]/a/span[1]</value>
+      <webElementGuid>2a76be45-ff06-4cfc-8aff-5be74789fb85</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
